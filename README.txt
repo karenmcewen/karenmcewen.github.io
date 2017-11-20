@@ -1,4 +1,9 @@
 This portfolio project is created by Karen M. McEwen, to showcase my work.
+Notes
++About Me Section
+-resume needs to be reformatted to a single page (I don't know why there are blank pages there)
+-experience should be separated into different boxes
+
 
 
 The front end website uses the following template:
