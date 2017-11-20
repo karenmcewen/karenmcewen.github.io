@@ -4,9 +4,7 @@ Notes
 -resume needs to be reformatted to a single page (I don't know why there are blank pages there)
 -experience should probably be separated into different boxes
 
-+all pages
--for MVP - update the links or buttons to the correct linkedIn and Github pages
--for MVP check the contact information and see if the 'contact me' actually works or comment it out
++all pages (MVP ok)
 -check for overlap and scrolling with the top top header on every page
 
 +Images (MVP ok)
@@ -22,14 +20,14 @@ Notes
 -add a carousel for the screen shots
 
 +education (not part of MVP)
--content to be added later
+-more content to be added later
 
 +data visualization (not part of MVP)
 -more content to be added later -artwork stole photo and data analysis
 -may want to just roll this under projects heading since it is so sparse right now
 
 +inProcess (not part of MVP)
--content to be added later - bones project database, SOC pascal to C# rewrite
+-more content to be added later - bones project database, SOC pascal to C# rewrite
 
 +Future ideas
 - add book reviews (write a blog)? (Infographics, 100 ideas internet, predictioneering)
