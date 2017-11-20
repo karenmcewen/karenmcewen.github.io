@@ -7,6 +7,7 @@ Notes
 +all pages
 -for MVP - update the links or buttons to the correct linkedIn and Github pages
 -for MVP check the contact information and see if the 'contact me' actually works or comment it out
+-check for overlap and scrolling with the top top header on every page
 
 +Images (MVP ok)
 - redo formatting of all images to a smaller size
@@ -25,9 +26,14 @@ Notes
 
 +data visualization (not part of MVP)
 -more content to be added later -artwork stole photo and data analysis
+-may want to just roll this under projects heading since it is so sparse right now
 
 +inProcess (not part of MVP)
--content to be added later - bones project database, SOC pascal rewrite
+-content to be added later - bones project database, SOC pascal to C# rewrite
+
++Future ideas
+- add book reviews (write a blog)? (Infographics, 100 ideas internet, predictioneering)
+-database/dictionary of terms/internet/computer/programs/languages/alphabet soup
 
 ----------------------------------------------------------------------------------------------------
 The front end website uses the following template:
