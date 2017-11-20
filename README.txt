@@ -1,11 +1,35 @@
 This portfolio project is created by Karen M. McEwen, to showcase my work.
 Notes
-+About Me Section
++About Me Section (MVP ok)
 -resume needs to be reformatted to a single page (I don't know why there are blank pages there)
--experience should be separated into different boxes
+-experience should probably be separated into different boxes
 
++all pages
+-for MVP - update the links or buttons to the correct linkedIn and Github pages
+-for MVP check the contact information and see if the 'contact me' actually works or comment it out
 
++Images (MVP ok)
+- redo formatting of all images to a smaller size
 
++projects page (MVP ok)
+-want to add (or replace FTeller) with revised/updated virtual pet
+-want to replace Tuscany Village with just about any other website I've done (seriously, why did I use this?)
+-review all my repositories and delete the ones that weren't working that I redid
+
++wardrobe project page (MVP ok)
+-want to go back and change the colors on the website project and redo all the screen shots - those colors are garish!
+-add a carousel for the screen shots
+
++education (not part of MVP)
+-content to be added later
+
++data visualization (not part of MVP)
+-more content to be added later -artwork stole photo and data analysis
+
++inProcess (not part of MVP)
+-content to be added later - bones project database, SOC pascal rewrite
+
+----------------------------------------------------------------------------------------------------
 The front end website uses the following template:
 Forty by HTML5 UP
 html5up.net | @ajlkn
