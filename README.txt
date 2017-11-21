@@ -5,7 +5,6 @@ Notes
 -experience should probably be separated into different boxes
 
 +all pages (MVP ok)
--check for overlap and scrolling with the top top header on every page
 
 +Images (MVP ok)
 - redo formatting of all images to a smaller size
