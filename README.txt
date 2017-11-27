@@ -7,16 +7,15 @@ Notes
 +all pages (MVP ok)
 
 +Images (MVP ok)
-- redo formatting of all images to a smaller size
+- redo formatting of all images to a smaller size (?)
 
 +projects page (MVP ok)
 -want to add (or replace FTeller) with revised/updated virtual pet
 -want to replace Tuscany Village with just about any other website I've done (seriously, why did I use this?)
 -review all my repositories and delete the ones that weren't working that I redid
+-put pics on one side, alternating with text (like in the Tuscany Village Project)
 
 +wardrobe project page (MVP ok)
--want to go back and change the colors on the website project and redo all the screen shots - those colors are garish!
--add a carousel for the screen shots
 
 +education (not part of MVP)
 -more content to be added later
