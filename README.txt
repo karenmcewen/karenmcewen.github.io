@@ -28,7 +28,7 @@ Notes
 -more content to be added later - bones project database, SOC pascal to C# rewrite
 
 +Future ideas
-- add book reviews (write a blog)? (Infographics, 100 ideas internet, predictioneering)
+-add book reviews (write a blog)? (Infographics, 100 ideas internet, predictioneering)
 -database/dictionary of terms/internet/computer/programs/languages/alphabet soup
 
 ----------------------------------------------------------------------------------------------------
